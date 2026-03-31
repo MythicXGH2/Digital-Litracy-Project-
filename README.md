@@ -2,7 +2,7 @@
 
 **Name:** Patel Meghal Vipulkumar   
 **Reg No:** 25BAS10001  
-**Branch:**Aerospace Engineering 
+**Branch:** Aerospace Engineering 
 **Course Code:** CSE0001 – Digital Literacy  
 
 ---
