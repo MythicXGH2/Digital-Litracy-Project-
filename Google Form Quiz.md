@@ -11,4 +11,4 @@ The quiz includes questions on:
 - Professional platforms
 - Cybersecurity awareness
 
-(C:\Users\Meghal Patel\Pictures\Screenshots)
+![This is Quiz Questions](C:\Users\Meghal Patel\Pictures\Screenshots)
