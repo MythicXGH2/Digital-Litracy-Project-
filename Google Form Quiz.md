@@ -10,5 +10,3 @@ The quiz includes questions on:
 - Online safety
 - Professional platforms
 - Cybersecurity awareness
-
-![This is Quiz Questions](Quiz Question.png)
